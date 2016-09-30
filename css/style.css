@@ -26,7 +26,7 @@ nav {
 }
 .hero {
   background-image: url(https://c2.staticflickr.com/4/3122/3127152549_966114fee3_b.jpg);
-  background-size: contain;
+  background-size: cover;
   color: #fff;
 }
 .icon-150 {
