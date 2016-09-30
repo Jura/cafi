@@ -1,0 +1,75 @@
+.navbar-nav .caret {
+	color: #3d9e07;
+}
+.topmenu {
+  margin-top: 10px;
+}
+.navbar-default .navbar-nav > li > a, 
+.navmenu-default .navmenu-nav > li > a,
+.navbar-inverse .navbar-nav > li > a {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.navmenu-default .navbar-brand {
+  float: none;
+}
+.navmenu-default .close {
+  font-size: 48px;
+  padding-right: 15px;
+  font-weight: normal;
+}
+nav {	
+  font-family: Raleway, sans-serif;
+}
+.thumbnail.noborder {
+  border-color: transparent;
+}
+.hero {
+  background-image: url(https://c2.staticflickr.com/4/3122/3127152549_966114fee3_b.jpg);
+  background-size: contain;
+  color: #fff;
+}
+.icon-150 {
+  font-size: 150px;
+  color: #3d9e07;
+}
+.footer {
+  margin-bottom: 0;
+}
+.footer .navbar-nav ul a {
+  padding: 0 15px;
+  color: #9d9d9d;
+}
+.footer .navbar-nav ul a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+.navbar-form .form-control, .navbar-form .input-group-addon {
+  border: 0;
+  border-bottom: 1px #3d9e07 solid;
+  background-color: transparent;
+}
+.navbar-form .form-control:focus {
+  outline-style: none;
+}
+.navbar-inverse .navbar-form {
+  border-color: transparent;
+}
+.navbar-inverse .navbar-form .form-control {
+  color: #9d9d9d;
+} 
+.navbar-form .input-group-addon {
+  color: #3d9e07;
+  padding-left: 0;
+}
+.postcard {
+  position: relative;
+  margin-bottom: 20px;
+}
+.postcard-caption {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  right: 10%;
+  color: #ffffff;
+}
