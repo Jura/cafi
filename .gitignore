@@ -1,0 +1,3 @@
+#ignore non-dist files
+bootstrap/*
+!bootstrap/dist
